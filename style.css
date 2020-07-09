@@ -1,0 +1,41 @@
+body{
+    background: url('img/background-blank-business-composition-583848.jpg');
+    background-size: cover;
+    background-color:aliceblue;
+}
+.container-fluid{
+    background-color: rgba(40,99,95,0.7);
+}
+#title{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: white;
+    padding: 10px;
+}
+#description{
+    font-family: 'Fondamento', cursive;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+#survey-form{
+    font-family: 'Hind', sans-serif;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    background-color: rgba(16,11,24,0.6);
+    border-radius: 10px;
+}
+p{
+    font-weight: 700;
+}
+.form-group{
+    padding: 5px;
+}
+.input-textarea{
+    width: 100%;
+    min-height: 120px;
+    border-radius: 5px;
+    color: black;
+}
