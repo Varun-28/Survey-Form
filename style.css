@@ -39,3 +39,8 @@ p{
     border-radius: 5px;
     color: black;
 }
+@media screen and (max-width: 800px) {
+  #survey-form, #title, #description {
+    width: 90%; /* The width is 90%, when the viewport is 800px or smaller */
+  }
+}
