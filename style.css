@@ -10,6 +10,7 @@ body{
     font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
     padding: 10px;
+    margin: auto;
 }
 #description{
     font-family: 'Fondamento', cursive;
@@ -41,6 +42,6 @@ p{
 }
 @media screen and (max-width: 800px) {
   #survey-form, #title, #description {
-    width: 90%; /* The width is 90%, when the viewport is 800px or smaller */
+    width: 98%; /* The width is 90%, when the viewport is 800px or smaller */
   }
 }
