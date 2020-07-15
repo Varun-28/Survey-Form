@@ -42,6 +42,6 @@ p{
 }
 @media screen and (max-width: 800px) {
   #survey-form, #title, #description {
-    width: 98%; /* The width is 90%, when the viewport is 800px or smaller */
+    width: 98%; /* The width is 98%, when the viewport is 800px or smaller */
   }
 }
